@@ -4,4 +4,4 @@ Welcome to my personal portfolio website, showcasing my game development and lev
 
 Live Site
 
-🔗 View my portfolio
+🔗 View my portfolio: https://hojun-eng.github.io/HoJun-Portfolio/
